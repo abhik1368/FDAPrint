@@ -1,0 +1,11 @@
+The program fdaprint.py generated fingerprints using the fragments .The fragments is obtained from http://chemoinfo.ipmc.cnrs.fr/download.html. It covers 1459 molecules which can be used to screen drugs from a large datasets.
+
+The program generated fingerprints using this fragments and then a user can perform some machine learning with it.
+The fragments are provided in SDF format and smiles format also our program implements its as a HASH map. hash_file.txt is the hash map used in the program.
+
+If you any comments please email 
+abseal@indiana.edu
+
+Thanks
+Abhik Seal
+Phd Student Indiana Univeristy
